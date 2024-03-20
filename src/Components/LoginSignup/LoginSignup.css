@@ -1,6 +1,7 @@
 body {
     height: 150vh;
     background: linear-gradient(#2A00B7, #42006C);
+    font-family: 'Poppins', sans-serif;
 }
 .container {
     display: flex;
